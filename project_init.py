@@ -7,9 +7,9 @@ import sys
 import os
 from github import Github
 
-home_path = "/home/kishj/OneDrive/development/"             # Path to store development work
-access_token = "bbeedf38f466dd49a72a95fdaae6f4b4bc547e16"   # Personal access token from GitHub
-git_user = "kishjogia"
+home_path = "/home/development/"             # Path to store development work
+access_token = "-"   # Personal access token from GitHub
+git_user = "username"
 
 def project_init():
     if len(sys.argv) == 2:
