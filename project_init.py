@@ -8,7 +8,7 @@ import os
 from github import Github
 
 home_path = "/home/kishj/OneDrive/development/"             # Path to store development work
-access_token = "c98ac6c9b89bcf66dae21726efc8514d251304e7"   # Personal access token from GitHub
+access_token = "bbeedf38f466dd49a72a95fdaae6f4b4bc547e16"   # Personal access token from GitHub
 git_user = "kishjogia"
 
 def project_init():
